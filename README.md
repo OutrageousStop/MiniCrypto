@@ -4,4 +4,4 @@ This is a project for the course cryptography in Vellore Institute of technology
 
 It contains two sections:
 1. Password Manager
-2. Naive Bank transaction simulation.
+2. Simple encrypted transactions application
